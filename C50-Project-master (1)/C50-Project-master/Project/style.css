@@ -1,0 +1,75 @@
+body{
+  background-color: cornsilk;
+}
+.G2{
+  text-align: center;
+  justify-content: center;
+border:solid  }
+
+.G1{
+text-align: left;
+justify-content: left;
+border:solid 
+}
+.G3{
+  text-align: right;
+  justify-content: right;
+  border:solid 
+}
+.G4{
+  text-align: center;
+  justify-content:center;
+  border:solid 
+}
+.G5{
+  border:solid 
+}
+.Head{
+border : solid
+display = flex;
+}
+
+.menu{
+display: flex;
+justify-content: space-between;
+  margin-left: 1000px;
+ 
+}
+a:link{
+
+  color: brown;
+}
+
+a:visited{
+  color: yellowgreen;
+}
+
+
+.G1:hover{
+ 
+ 
+  opacity:0.5;
+}
+.G2:hover{
+ 
+ 
+  opacity:0.5;
+}
+.G3:hover{
+ 
+ 
+  opacity:0.5;
+}
+
+.G5:hover{
+ 
+ 
+  opacity:0.5;
+}
+
+.G4:hover{
+ 
+ 
+  opacity:0.5;
+}
+
